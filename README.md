@@ -1,13 +1,13 @@
 English
 - 👋 Hi, I’m @AjCu
 - 👀 I’m interested in Web Programming 
-- 🌱 I’m currently learning Frontend Libraries and Microservices with FreeCodeCamp
+- 🌱 I’m currently working as FullStack Jr at Siigo. Learning all the time Frontend Libraries and Microservices with FreeCodeCamp
 - 📫 How to reach me: codepen.io/ajcu | @albertojcu on Twitter.
 
 Español
 - 👋 Hola, soy @AjCu
 - 👀 Estoy interesado en la programacion web. 
-- 🌱 Actualizando aprendiendo a usar microservicios y librarias frontend en FreeCodeCamp
+- 🌱 Actualmente trabajando como Fullstack Jr en Siigo, aprendiendo sobre microservicios y librarias frontend en FreeCodeCamp
 - 📫 Contacto: codepen.io/ajcu | @albertojcu en Twitter.
 
 <!---
