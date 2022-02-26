@@ -65,7 +65,7 @@ Español
 </details>
 </div>
 
-[codepen]: codepen.io/ajcu
+[codepen]: https://codepen.io/ajcu
 [twitter]: https://twitter.com/albertojcu
 [linkdein]: https://www.linkedin.com/in/alberto-cristancho/
 
