@@ -3,7 +3,7 @@ English
 ### I'm a Web Developer, currently working at Siigo as a FullStack Jr.
 - 👀 I’m interested in pretty much everything related to programming and data science.
 - 🌱 I'm also a college student at UNET studying computer engineering and in my free time i'm trying to complete the FullStack path at FreeCodeCamp.
-- 📫 How to reach me: codepen.io/ajcu | @albertojcu on Twitter.
+- 📫 How to reach me: [CodePen Profile][codepen] | [Twitter Profile][twitter] | [Linkedin Profile][linkdein]
 
 ### Languages and Tools:
 <!--START_SECTION:languages-->
@@ -27,8 +27,6 @@ English
 <!--END_SECTION:languages-->
 
 ---
-
-<br />
 <br />
 
 Español
@@ -36,7 +34,7 @@ Español
 ### Soy un desarrollador web, actualmente trabajando en Siigo como FullStack Jr. 
 - 👀 Estoy interesado en basicamente todo lo relacionado con la programacion y la ciencia de la data.
 - 🌱 Tambien soy un estudiante universitario en la UNET en la carrera de ingenieria informatica y en mis tiempos libres curso el path de FullStack en FreeCodeCamp.
-- 📫 Contacto: codepen.io/ajcu | @albertojcu en Twitter.
+- 📫 Contacto:  [CodePen Profile][codepen] | [Twitter Profile][twitter] | [Linkedin Profile][linkdein]
 
 ### Lenguajes y herramientas:
 <!--START_SECTION:lenguajes--->
@@ -67,6 +65,9 @@ Español
 </details>
 </div>
 
+[codepen]: codepen.io/ajcu
+[twitter]: https://twitter.com/albertojcu
+[linkdein]: https://www.linkedin.com/in/alberto-cristancho/
 
 
 <!---
