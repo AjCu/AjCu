@@ -1,6 +1,6 @@
 English
 # Hi! I'm Alberto - aka AjCu 👋 
-### I'm a Web Developer, currently working at Siigo as a FullStack Jr.
+### I'm a Web Developer, currently working at Siigo as a FullStack.
 - 👀 I’m interested in pretty much everything related to programming and data science.
 - 🌱 I'm also a college student at UNET studying computer engineering and in my free time i'm trying to complete the FullStack path at FreeCodeCamp.
 - 📫 How to reach me: [CodePen Profile][codepen] | [Twitter Profile][twitter] | [Linkedin Profile][linkdein]
@@ -31,7 +31,7 @@ English
 
 Español
 # Hola! Soy Alberto - aka AjCu 👋 
-### Soy un desarrollador web, actualmente trabajando en Siigo como FullStack Jr. 
+### Soy un desarrollador web, actualmente trabajando en Siigo como FullStack. 
 - 👀 Estoy interesado en basicamente todo lo relacionado con la programacion y la ciencia de la data.
 - 🌱 Tambien soy un estudiante universitario en la UNET en la carrera de ingenieria informatica y en mis tiempos libres curso el path de FullStack en FreeCodeCamp.
 - 📫 Contacto:  [CodePen Profile][codepen] | [Twitter Profile][twitter] | [Linkedin Profile][linkdein]
