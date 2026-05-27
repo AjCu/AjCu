@@ -1,4 +1,3 @@
-English
 # Hi! I'm Alberto - aka AjCu 👋 
 ### I'm a Web Developer, currently working at Siigo as a FullStack.
 - 📫 How to reach me: [Linkedin Profile][linkdein]
